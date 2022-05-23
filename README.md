@@ -4,7 +4,7 @@ Do you also like using Topsters2 to share the pictures on Twitter and gets 0 lik
 Well I'm trying to build a better one.
 A faster one, with more swag.
 
-~~~~~~~~ Storytime
+** Storytime **
 
 MyDisco is a personal dev project of mine that never came up because I suck.
 
